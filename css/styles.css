@@ -269,6 +269,9 @@ body {
     border-style: hidden;
     margin-left: 1.4rem;
     max-width: 11rem;
+}
+
+input:focus, textarea:focus {
     outline: none;
 }
 
