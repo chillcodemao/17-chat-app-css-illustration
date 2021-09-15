@@ -1,0 +1,121 @@
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+    background: #F2F2F2;
+}
+
+.top-background {
+    background: linear-gradient(225deg, #E844FF 0%, #8739FF 100%);
+}
+
+.bottom-background {
+    background: linear-gradient(225deg, #E844FF 0%, #8739FF 100%);
+}
+
+.mobile-outline {
+    background-color: #FFF;
+}
+
+.screen-outline {
+    background-color: #F5F3F7;
+}
+
+.screen-cut-out {
+    background-color: #FFF;
+}
+
+.screen-top-section {
+    background: linear-gradient(225deg, #E844FF 0%, #8739FF 100%);
+}
+
+.back-arrow {
+    background-color: #FFF;
+}
+
+.user-name {
+    font-weight: 500;
+    font-size: 1.1rem;
+    line-height: 1.3rem;
+    color: #FFF;
+}
+
+.user-availbility {
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 0.95rem;
+    color:#D99EFF;
+}
+
+.dot {
+    background-color: #FFF;
+}
+
+.dog-walker {
+    background-color: #EEE5F4;
+}
+
+.dog-walker p {
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 1.1rem;
+    color: #9341C8;
+}
+
+.client {
+    background-color: #FFF;
+}
+
+.client p {
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 1.1rem;
+    color: #6E5D7E;
+}
+
+.hiring-option {
+    background: linear-gradient(225deg, #E844FF 0%, #8739FF 100%);
+}
+
+.duration-selector-30min p, .duration-selector-1hr p {
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 1.1rem;
+    color: #FFF;
+}
+
+.cost {
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1.1rem;
+    color: #FFF;
+}
+
+.msg-typebox {
+    background-color: #FFF;
+}
+
+.submit-btn {
+    background-color: #3E2753;
+}
+
+.submit-arrow {
+    background-color: #FFF;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 4rem;
+    line-height: 4.7rem;
+    color: #3E2753;
+}
+
+.app-brief p {
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 1.8rem;
+    color: #A39DA9;
+}
+
