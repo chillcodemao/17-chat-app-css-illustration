@@ -262,11 +262,13 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    box-sizing: border-box;
 }
 
 .typebox {
     border-style: hidden;
     margin-left: 1.4rem;
+    max-width: 11rem;
 }
 
 .submit-btn {
@@ -276,7 +278,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-self: center;
 }
 
 .submit-arrow {
